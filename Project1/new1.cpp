@@ -600,7 +600,7 @@ void deal_with_input(char ch)
 		bool onetime = 0;
 		while (1)
 		{
-			// cout << "in";
+
 			char ch;
 			if (_kbhit())
 			{
